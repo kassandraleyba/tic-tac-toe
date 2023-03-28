@@ -9,4 +9,5 @@ Tic-tac-toe is a game played on a 3x3 grid where two players take turns placing 
 - `npm 8.11.0`
 
 ## How to play
-Run `npm start`
+Local
+- Run `npm start`
