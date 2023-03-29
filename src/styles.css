@@ -53,22 +53,22 @@ ul {
 body {
   font-family: sans-serif;
   margin: 20px;
-  padding: 0;
+  padding: 50px;
 }
 
 .square {
   background: #fff;
   border: 1px solid #999;
   float: left;
-  font-size: 24px;
+  font-size: 40px;
   font-weight: bold;
   line-height: 34px;
-  height: 34px;
+  height: 100px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 34px;
+  width: 100px;
 }
 
 .board-row:after {
