@@ -2,7 +2,7 @@
 
 An application using React principles.
 
-Tic-tac-toe is a game played on a 3x3 grid where two players take turns placing X's and O's until one player gets three in a row or all spaces are filled.
+Get ready to embark on the ultimate battle of wit and strategy with Tic-Tac-Toe! This classic game takes you on a thrilling adventure where Xs and Os come to life, fighting for dominance on the grid. Whether you're challenging a friend or battling the clever AI, brace yourself for nail-biting suspense and endless laughter as you strategically plot your moves to claim victory. With Tic-Tac-Toe, the excitement never ends, making every match a delightful rollercoaster of twists and turns. It's time to unleash your inner strategist and show off your cunning skills in this timeless game of Xs, Os, and boundless fun!
 
 ## Version
 - `node 16.15.1`
